@@ -1,6 +1,6 @@
 {
   "name": "mcdonald-location-apiv2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js library to programmatically find the nearest McDonald's locations and perform searches on the McDonald's site.",
   "main": "src/index.js",
   "scripts": {
