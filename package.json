@@ -1,0 +1,30 @@
+{
+  "name": "mcdonald-location-apiv2",
+  "version": "1.0.2",
+  "description": "A Node.js library to programmatically find the nearest McDonald's locations and perform searches on the McDonald's site.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsrhax/McDonald-Location-API.git"
+  },
+  "keywords": [
+    "api",
+    "location",
+    "food search",
+    "McDonald",
+    "nearby location"
+  ],
+  "author": "GSRHaX <gsrhackz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsrhax/McDonald-Location-API/issues"
+  },
+  "homepage": "https://github.com/gsrhax/McDonald-Location-API/#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
