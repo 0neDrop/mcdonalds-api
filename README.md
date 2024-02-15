@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mcdonald-location-apiv2
 
 ## Description
