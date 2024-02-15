@@ -84,7 +84,4 @@ searchMcDonaldsSite('Big Mac', 5)
   .catch(error => {
     console.error(error);
   });
-=======
-# mcdonalds-api
-A Node.js library to programmatically find the nearest McDonald's locations and perform searches on the McDonald's site.
->>>>>>> de8d01e35655bddfc1b5ebb6d483a47360661baf
+
